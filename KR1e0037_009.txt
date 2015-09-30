@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 高氏春秋集註
-#+DATE: 2015-09-23 09:39:35
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:13:50.631219
+#+PROPERTY: ID KR1e0037
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0037_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋集註卷九¶
@@ -326,4 +328,3 @@
 　¶
 　¶
 　春秋集註巻九¶
-
